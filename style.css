@@ -1,0 +1,31 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family: Arimo;
+}
+body
+{
+    background-image: url('ser.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div ul li 
+{
+   list-style-type: none;
+   display: inline-block;
+   text-align: center;
+   padding: 40px;
+   margin:0px 10px ;
+   font-size: 2em;
+
+}
+a:hover
+{
+    color: white;
+}
+div ul li a 
+{
+    text-decoration: none;
+    color: rgb(216, 19, 138);
+}
